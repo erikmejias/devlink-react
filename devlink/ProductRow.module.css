@@ -1,0 +1,10 @@
+.product-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.product-name {
+  margin-right: 20px;
+  margin-left: 20px;
+  flex: 0 auto;
+}
