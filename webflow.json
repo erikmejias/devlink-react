@@ -1,0 +1,6 @@
+{
+  "name": "my-amazing-extension",
+  "size": "large",
+  "apiVersion": "2",
+  "publicDir": "dist"
+}
